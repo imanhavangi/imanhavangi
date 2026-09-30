@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Iman Havangi — Software Engineer. Systems, tools, products.">
+  <img src="assets/header-light.svg" alt="Iman Havangi — Software Engineer. Traffic, systems, agents.">
 </picture>
 
-Software engineer building reliable systems, developer tools, and products — 20+ shipped across fintech, healthcare, and IoT. I care about clarity, simplicity, and understanding how things work beneath the abstraction.
+I engineer large-scale traffic — CDN, edge, and the networks beneath them. I work AI-native: agents in the loop, assumptions out of it.
 
-Currently engineering CDN infrastructure at [GreenPlus](https://greenplus.cloud/).
+20+ products shipped across fintech, healthcare, and IoT. Now: CDN infrastructure at [GreenPlus](https://greenplus.cloud/).
 
 ## Selected work
 
@@ -25,16 +25,16 @@ Also shipped: [Alpha](https://cafebazaar.ir/app/com.vira.alpha) — AI language 
 
 ## I work around
 
-Systems engineering · Developer tools  
-Backend systems · Networking  
-AI-assisted development · Product engineering
+CDN & edge · Networking  
+Distributed systems · Infrastructure  
+AI agents · Developer tooling
 
 `Python` · `Django` · `FastAPI` · `Flutter` · `TypeScript`  
 `Docker` · `Linux` · `Nginx` · `PostgreSQL` · `Redis`
 
-> Understand the problem.  
-> Reduce the ambiguity.  
-> Build the system.
+> Traffic doesn't lie.  
+> Neither does production.  
+> Everything else is opinion.
 
 BSc, Computer Engineering
 
