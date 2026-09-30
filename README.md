@@ -3,7 +3,9 @@
   <img src="assets/header-light.svg" alt="Iman Havangi — Software Engineer. Systems, tools, products.">
 </picture>
 
-Software engineer building reliable systems, developer tools, and products that solve real problems. I care about clarity, simplicity, and understanding how things work beneath the abstraction.
+Software engineer building reliable systems, developer tools, and products — 20+ shipped across fintech, healthcare, and IoT. I care about clarity, simplicity, and understanding how things work beneath the abstraction.
+
+Currently engineering CDN infrastructure at [GreenPlus](https://greenplus.cloud/). Previously built Hexa, an award-winning assistive robot for stroke survivors — now in service at a rehabilitation clinic.
 
 ## Selected work
 
@@ -19,16 +21,20 @@ Crowdsourced, real-time network monitoring platform.
 Practical techniques for keeping servers connected under constrained network conditions.  
 *networking · linux*
 
+Also shipped: [Alpha](https://cafebazaar.ir/app/com.vira.alpha) — AI language learning, 2,900+ installs · [Solana Smart Home](https://solanasmart.com/) — IoT platform · a CPPI trading bot live on Binance & BingX.
+
 ## I work around
 
 Systems engineering · Developer tools  
 Backend systems · Networking  
 AI-assisted development · Product engineering
 
-`Python` · `TypeScript` · `Linux` · `Docker` · `PostgreSQL` · `Redis` · `Nginx`
+`Python` · `Django` · `FastAPI` · `Flutter` · `TypeScript` · `Docker` · `PostgreSQL` · `Redis` · `Nginx` · `Linux`
 
 > Understand the problem.  
 > Reduce the ambiguity.  
 > Build the system.
+
+BSc, Computer Engineering
 
 [website ↗](https://imanhavangi.ir) · [linkedin ↗](https://www.linkedin.com/in/imanhavangi) · [telegram ↗](https://t.me/imanhavangi) · [instagram ↗](https://www.instagram.com/imanhavangi.dev) · [email ↗](mailto:imanhavangi20@gmail.com)
